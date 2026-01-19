@@ -49,7 +49,7 @@ En este curso trabajaremos **solo con GitHub Pages + Codespaces**. La meta es qu
 - **`_includes/`**: piezas HTML que se “inyectan” (header/footer y extras).
 - **`assets/`**: recursos estáticos (CSS, imágenes, PDFs).
 
-> Regla práctica: en clase, casi todo lo que edites será **`.md`** y **`assets/`**.
+> Regla práctica: casi todo lo que edites será **`.md`** y **`assets/`**.
 
 ---
 
@@ -67,8 +67,8 @@ Cuando editas en Codespaces y haces **Commit** + **Push**:
 - **Actions** (ver si está “verde/success”).
 - **Settings → Pages** (ver la URL y el estado de publicación).
 
-**Figura 11 (pendiente):** Ejecución en Actions (verde).  
 ![Figura 11 — Actions success](assets/img/01-publicar/actions.png)
+**Figura 11** Ejecución en Actions (verde).  
 
 ---
 
@@ -108,8 +108,8 @@ nav_order: 10
 - `nav_order`: el orden en el menú.
 - `layout: default`: estándar para páginas del curso.
 
-**Figura 12 (pendiente):** Menú lateral mostrando el orden `nav_order`.  
 ![Figura 12 — Sidebar y orden](assets/img/02-estructura/nav.png)
+**Figura 12:** Menú lateral mostrando el orden `nav_order`.  
 
 ### Secciones con subpáginas (padre/hijas)
 
